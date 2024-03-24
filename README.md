@@ -5,4 +5,6 @@ I am currently serving as a board member for the She Codes Club at Pasadena City
 
 As I continue on this journey, I am excited for the opportunities that lie ahead and remain steadfast in my commitment to making a positive impact in the tech industry and beyond. 
 
+Check our my some respositories on github!
+
 Thank you for taking the time to learn more about me, and I look forward to connecting with you.
